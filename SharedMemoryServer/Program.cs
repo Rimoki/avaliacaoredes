@@ -96,7 +96,7 @@ class Program
                 }
 
                 // Reenvia o menu após a operação
-                SendMenu(stream, "");
+                //SendMenu(stream, "");
             }
         }
         catch (Exception e)
